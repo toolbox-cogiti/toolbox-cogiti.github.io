@@ -16,5 +16,5 @@ Having trouble with toolbox-cogiti collaboration projects? Check out GitHub [doc
 
 
 
-[1]: (https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-word-link&utm_campaign=welcome-email)
+[1]: https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-word-link&utm_campaign=welcome-email
 
