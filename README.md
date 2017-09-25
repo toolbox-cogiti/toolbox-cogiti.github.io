@@ -5,7 +5,7 @@ General Council of Graduates in Industrial Engineering and Industrial Technical 
 
 ### What is toolbox-cogiti.github ?
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere [1]. A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. 
+GitHub is a code hosting platform for version control and collaboration. It lets [you and others work together on projects from anywhere][1]. A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. 
 
 
 
