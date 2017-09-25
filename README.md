@@ -1,6 +1,6 @@
 ## Welcome to ToolBox-COGITI Collaboration Projects
 
-General Council of Graduates in Industrial Engineering and Industrial Technical Engineers of Spain (hereinafter COGITI), in its constant search for new opportunities, makes available a repository of [proprietary and open software applications](http://www.toolbox.cogiti.es/Products/Index) grouped by topics for Engineering.
+General Council of Graduates in Industrial Engineering and Industrial Technical Engineers of Spain (hereinafter COGITI), in its constant search for new opportunities, makes available a repository of [proprietary and open software applications](http://www.toolbox.cogiti.es/Products/Index "COGITI License Management Web Portal") grouped by topics for Engineering.
 
 
 ### What is toolbox-cogiti.github ?
@@ -16,5 +16,5 @@ Having trouble with toolbox-cogiti collaboration projects? Check out GitHub [doc
 
 
 
-[1](https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-word-link&utm_campaign=welcome-email)
+[1]: (https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-word-link&utm_campaign=welcome-email)
 
